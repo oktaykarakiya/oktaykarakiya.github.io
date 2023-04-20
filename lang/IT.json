@@ -1,0 +1,73 @@
+{
+    "home": "Home",
+    "about": "Chi sono",
+    "skills": "Competenze",
+    "experiences": "Esperienze",
+    "my_documents": "I miei documenti",
+
+
+    "greeting": "Ciao, sono",
+    "name": "Oktay Karakiya",
+    "position": "Sviluppatore software e studente",
+    "phone": "+39 349 504 3663 / +39 327 846 5330",
+    "location": "39049 Vipiteno, Alto Adige, Italia",
+
+
+    "abut_me_title": "Su di me",
+    "about_me_text": "Ciao, sono un giovane programmatore entusiasta con una profonda passione per lo sviluppo software. Possiedo una vasta gamma di competenze di programmazione, tra cui l'expertise in CSS, JavaScript, PHP, Python, Node.js, C e C++, Haskell, C# e .NET. Inoltre, sono fluente in inglese, tedesco, italiano e turco, il che mi consente di comunicare efficacemente con persone provenienti da diverse parti del mondo. La mia motivazione per perseguire una carriera nello sviluppo software è diventare finanziariamente indipendente e potenzialmente trasferirmi in un altro paese. Sono una persona calma e veloce nell'apprendimento che dà sempre il massimo sforzo, e sono orgoglioso del mio lavoro preciso e ordinato. Possiedo una mente critica profonda e forti capacità di comunicazione, che mi permettono di pensare profondamente ai problemi e trovare soluzioni creative, collaborando efficacemente con i miei colleghi e clienti. Sebbene i miei piani di carriera a lungo termine non siano ancora chiari, sono entusiasta di esplorare nuove possibilità e cogliere opportunità che si allineano con i miei interessi e aspirazioni. Nel mio tempo libero, mi piace sperimentare con nuove tecnologie ed espandere le mie competenze. Sono sicuro che la mia passione, le mie competenze e la mia dedizione mi consentiranno di avere successo in qualsiasi ruolo di sviluppo software che intraprenderò.",
+
+
+    "what_i_do": "Cosa Faccio",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "servers": "Server",
+    "frontend_text": "Ho sviluppato vari piccoli progetti in passato. Sono sempre pronto a migliorarmi e apprendere rapidamente nuove tecnologie. Sono un apprendista rapido e ordinato",
+    "backend_text": "Ho esperienza nella creazione di API. Puoi trovare un'API che ho sviluppato che consente ai proprietari di attività di gestire i loro piani di abbonamento e comunicare tramite l'interfaccia, nonché avvisi e molte altre funzioni",
+    "servers_text": "Ho sempre mantenuto i miei progetti sui miei server senza c-panel, quindi ho acquisito molte conoscenze sulla manutenzione del server e la gestione di servizi come nginx",
+    
+    "spoken_languages": "Lingue Parlate",
+    "english": "Inglese",
+    "german": "Tedesco",
+    "italian": "Italiano",
+    "turkish": "Turco",
+    "russian": "Russo",
+    "spanish": "Spagnolo",
+    
+    
+    "professional_skills": "Competenze Professionali",
+    "communication": "Comunicazione",
+    "teamwork": "Lavoro di Squadra",
+    "project_management": "Gestione Progetti",
+    "creativity": "Creatività",
+    
+    
+    "education": "Formazione",
+    "highschool_graduation_title": "Economia e Informatica",
+    "highschool_graduation_text": "L'economia è molto complessa, sono grato di poterla arricchire con la conoscenza di come funziona nei dettagli, dall'economia micro alla macroeconomia",
+    "universiti_department": "Informatica <a href='https://www.uibk.ac.at/it/'>Università di Innsbruck</a>",
+    "uni_time": "2022 - attuale",
+    "university_text": "L'informatica è sempre stato il mio sogno, è il luogo dove mi sento accettato e a mio agio, è un luogo per i nerd come me",
+    "certificates_link": "Certificati <a href='https://1drv.ms/u/s!AgL7Hatmik7Ht1ZrA3dDOQB0VI5n?e=4BHHRX'>Clicca qui</a>",
+    "always_up_to_date": "Sempre Aggiornato",
+    "always_up_to_date_things": "In questa cartella si possono trovare tutti i miei certificati",
+    
+    
+    "work_experience": "Esperienze Lavorative",
+    "My_resp_coach_and_assistant": "Coach & Assistente Coach",
+    "responsibility": "Responsabilità : ",
+    "responsibility_one": "<i class='fa fa-circle'></i> Dare lezioni a singoli o gruppi",
+    "responsibility_two": "<i class='fa fa-circle'></i> Aiutare il mio coach con le sue lezioni",
+    "company_and_role": "Karisma LLC <a href='https://www.informazione-aziende.it/Azienda_KARISMA-DES-KARAKIYA-HANIFI-TURGAY'>Responsabile Affari (logistica)</a>",
+    "responsibility_bis": "Responsabilità : ",
+    "responsibility_karisma_one": "<i class='fa fa-circle'></i> Incontri con i contabili",
+    "responsibility_karisma_two": "<i class='fa fa-circle'></i> Gestione delle fatture",
+    "responsibility_karisma_three": "<i class='fa fa-circle'></i> Guida dei camion",
+    "responsibility_karisma_four": "<i class='fa fa-circle'></i> Molto molto altro",
+
+
+    "download": "Scarica i miei documenti",
+    "d_cv": "Scarica il mio CV <i class='fa fa-download'></i>",
+    "d_ML": "Scarica la mia Lettera di Motivazione <i class='fa fa-download'></i>",
+    "d_certificates": "Scarica i miei Certificati <i class='fa fa-download'></i>"
+    
+}

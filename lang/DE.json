@@ -1,0 +1,72 @@
+{
+    "home": "Startseite",
+    "about": "Über mich",
+    "skills": "Fähigkeiten",
+    "experiences": "Erfahrungen",
+    "my_documents": "Meine Dokumente",
+
+
+    "greeting": "Hallo, ich bin",
+    "name": "Oktay Karakiya",
+    "position": "Softwareentwickler & Student",
+    "phone": "+39 349 504 3663 / +39 327 846 5330",
+    "location": "39049 Sterzing, Südtirol, Italien",
+
+
+    "abut_me_title": "Über mich",
+    "about_me_text": "Hallo, ich bin ein junger und begeisterter Programmierer mit einer tiefen Leidenschaft für die Softwareentwicklung. Ich verfüge über ein breites Spektrum an Programmierkenntnissen, einschließlich Expertise in CSS, JavaScript, PHP, Python, Node.js, C und C++, Haskell, C# und .NET. Zusätzlich beherrsche ich fließend Englisch, Deutsch, Italienisch und Türkisch, was mir eine effektive Kommunikation mit Menschen aus verschiedenen Teilen der Welt ermöglicht. Meine Motivation, eine Karriere in der Softwareentwicklung zu verfolgen, besteht darin, finanziell unabhängig zu werden und möglicherweise in ein anderes Land zu ziehen. Ich bin ein ruhiger und schneller Lerner, der immer sein Bestes gibt, und ich bin stolz auf meine präzise und ordentliche Arbeit. Ich habe einen tiefen kritischen Denkvermögen und starke Kommunikationsfähigkeiten, die es mir ermöglichen, tief über Probleme nachzudenken und kreative Lösungen zu finden, während ich effektiv mit meinen Kollegen und Kunden zusammenarbeite. Während meine langfristigen Karrierepläne noch nicht klar sind, bin ich begeistert, neue Möglichkeiten zu erkunden und Chancen zu ergreifen, die mit meinen Interessen und Zielen übereinstimmen. In meiner Freizeit experimentiere ich gerne mit neuen Technologien und erweitere meine Fähigkeiten. Ich bin zuversichtlich, dass meine Leidenschaft, Fähigkeiten und Hingabe es mir ermöglichen werden, in jeder Softwareentwicklungsfunktion, die ich verfolge, erfolgreich zu sein.",
+
+
+    "what_i_do": "Was ich mache",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "servers": "Server",
+    "frontend_text": "Ich habe in der Vergangenheit verschiedene kleine Projekte entwickelt. Ich bin immer bereit, mich weiterzuentwickeln und neue Technologien schnell zu lernen und zu erwerben. Ich bin ein schneller und ordentlicher Lerner.",
+    "backend_text": "Ich habe Erfahrung in der Erstellung von APIs. Sie können eine von mir entwickelte API finden, mit der Geschäftsinhaber ihre Mitgliedschaftspläne verwalten und über die Schnittstelle kommunizieren können, sowie Alarme und viele weitere Funktionen.",
+    "servers_text": "Ich habe immer meine Projekte auf eigenen Servern ohne c-Panel gewartet, daher habe ich viel Wissen über die Wartung von Servern und die Handhabung von Diensten wie Nginx gesammelt.",
+
+    "spoken_languages": "Gesprochene Sprachen",
+    "english": "English",
+    "german": "Deutsch",
+    "italian": "Italienisch",
+    "turkish": "Turkisch",
+    "russian": "Russisch",
+    "spanish": "Spanisch",
+
+
+    "professional_skills": "Meine Fähigkeiten",
+    "communication": "Kommunikation",
+    "teamwork": "Teamarbeit",
+    "project_management": "Projektmanagement",
+    "creativity": "Kreativität",
+    
+
+    "education": "Ausbildung",
+    "highschool_graduation_title": "Wirtschaft und Informatik",
+    "highschool_graduation_text": "Die Wirtschaft ist sehr komplex, ich bin dankbar, dass ich dieses Wissen besitze und weiß, wie sie im Detail funktioniert, von der Mikroökonomie bis zur Makroökonomie.",
+    "universiti_department": "Informatik <a href='https://www.uibk.ac.at/de/'>Universität Innsbruck</a>",
+    "uni_time": "2022 - aktuell",
+    "university_text": "Informatik war schon immer mein Traum, es ist der Ort, an dem ich mich akzeptiert und wohl fühle, es ist ein Ort für Nerds wie mich.",
+    "certificates_link": "Zertifikate <a href='https://1drv.ms/u/s!AgL7Hatmik7Ht1ZrA3dDOQB0VI5n?e=4BHHRX'>Klicke hier</a>",
+    "always_up_to_date": "Immer auf dem neuesten Stand",
+    "always_up_to_date_things": "In diesem Ordner sind alle meine Zertifikate zu finden",
+    
+    
+    "work_experience": "Berufserfahrung",
+    "My_resp_coach_and_assistant": "Coach & Coach-Assistent",
+    "responsibility": "Verantwortlichkeiten: ",
+    "responsibility_one": "<i class='fa fa-circle'></i> Kurse für Einzelpersonen oder Gruppen geben",
+    "responsibility_two": "<i class='fa fa-circle'></i> Meinem Coach bei seinen Kursen helfen",
+    "company_and_role": "Karisma GmBH <a href='https://www.informazione-aziende.it/Azienda_KARISMA-DES-KARAKIYA-HANIFI-TURGAY'>Geschäftsführer (Logistik)</a>",
+    "responsibility_bis": "Verantwortlichkeiten: ",
+    "responsibility_karisma_one": "<i class='fa fa-circle'></i> Treffen mit Buchhaltern",
+    "responsibility_karisma_two": "<i class='fa fa-circle'></i> Bearbeitung von Rechnungen",
+    "responsibility_karisma_three": "<i class='fa fa-circle'></i> LKW-Fahrten",
+    "responsibility_karisma_four": "<i class='fa fa-circle'></i> Und vieles mehr",
+
+
+    "download": "Laden Sie meine Dokumente herunter",
+    "d_cv": "Laden Sie meinen Lebenslauf herunter <i class='fa fa-download'></i>",
+    "d_ML": "Laden Sie meinen Motivationsbrief herunter <i class='fa fa-download'></i>",
+    "d_certificates": "Laden Sie meine Zertifikate herunter <i class='fa fa-download'></i>"
+}

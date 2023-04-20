@@ -1,0 +1,73 @@
+{
+    "home": "Anasayfa",
+    "about": "Benim Hakkımda",
+    "skills": "Becerilerim",
+    "experiences": "Deneyimlerim",
+    "my_documents": "Belgelerim",
+
+
+    "greeting": "Merhaba! Ben",
+    "name": "Oktay Karakiya",
+    "position": "Yazılım ve Öğrenci",
+    "phone": "+39 349 504 3663 / +39 327 846 5330",
+    "location": "39049 Vipiteno, Suedtirol, İtalya",
+
+
+    "abut_me_title": "Benim Hakkımda",
+    "about_me_text": "Merhaba, derin bir yazılım geliştirme tutkusuna sahip genç ve coşkulu bir programcıyım. CSS, JavaScript, PHP, Python, Node.js, C ve C++, Haskell, C# ve .NET gibi birçok programlama becerisine sahibim. Ayrıca İngilizce, Almanca, İtalyanca ve Türkçe dillerinde akıcıyım, bu da dünyanın farklı yerlerinden insanlarla etkili iletişim kurmamı sağlıyor. Yazılım geliştirme kariyerini takip etme motivasyonum maddi olarak bağımsız olmak ve potansiyel olarak başka bir ülkeye taşınmaktır. Her zaman en iyi çabayı gösteren sakin ve hızlı öğrenen biriyim ve hassas ve düzenli çalışmalarımla gurur duyuyorum. Derin eleştirel düşünme zihni ve güçlü iletişim becerilerim var, bu da benim problemlere derinlemesine düşünmemi ve yaratıcı çözümler bulmamı sağlıyor ve iş arkadaşlarımla ve müşterilerimle etkili bir şekilde işbirliği yapmama imkan veriyor. Uzun vadeli kariyer planlarım henüz net değilken, ilgi ve hedeflerime uygun yeni fırsatları keşfetmekten heyecan duyuyorum. Boş zamanlarımda yeni teknolojilerle deney yapm",
+
+
+    "what_i_do": "Ne Yaparım",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "servers": "Sunucular",
+    "frontend_text": "Geçmişte çeşitli küçük projeler geliştirdim. Kendimi sürekli geliştirmeye hazırım ve hızlı bir şekilde yeni teknolojiler öğrenirim. Hızlı öğrenme yeteneğim vardır.",
+    "backend_text": "API oluşturma konusunda deneyimim var. Üyelik planlarını yönetmelerine ve arayüz üzerinden iletişim kurmalarına, uyarıları ve birçok diğer özelliği kullanmalarına olanak tanıyan bir API geliştirdim.",
+    "servers_text": "Kendi sunucularımı c-panel olmadan her zaman yönettim, bu nedenle nginx gibi hizmetlerin bakımı ve yönetimi hakkında birçok bilgi edindim.",
+    
+    "spoken_languages": "Konuştuğum Diller",
+    "english": "İngilizce",
+    "german": "Almanca",
+    "italian": "İtalyanca",
+    "turkish": "Türkçe",
+    "russian": "Rusça",
+    "spanish": "İspanyolca",
+
+
+    "communication": "İletişim",
+    "teamwork": "Ekip Çalışması",
+    "project_management": "Proje Yönetimi",
+    "creativity": "Yaratıcılık",
+
+
+    "education": "Eğitim",
+    "highschool_graduation_title": "Ekonomi ve Bilişim",
+    "highschool_graduation_text": "Henüz bilmiyorum",
+    "universiti_department": "Bilgisayar Bilimleri <a href='https://www.uibk.ac.at/en/'>Innsbruck Üniversitesi</a>",
+    "uni_time": "2022 - günümüz",
+    "university_text": "Kullanım amacı Lorem Ipsum örnekleri gibi uzun süredir mevcuttur.",
+    "certificates_link": "Sertifikalarım <a href='https://1drv.ms/u/s!AgL7Hatmik7Ht1ZrA3dDOQB0VI5n?e=4BHHRX'>Buraya tıklayın</a>",
+    "always_up_to_date": "Her zaman güncel",
+    "always_up_to_date_things": "Bu klasörde tüm sertifikalarım bulunabilir",
+
+
+    "work_experience": "İş Deneyimleri",
+    "My_resp_coach_and_assistant": "Antrenör ve Antrenör Yardımcısı",
+    "responsibility": "Sorumluluklar : ",
+    "responsibility_one": "<i class='fa fa-circle'></i> Bireylere veya gruplara ders vermek",
+    "responsibility_two": "<i class='fa fa-circle'></i> Antrenörüme derslerinde yardımcı olmak",
+    "company_and_role": "Karisma LLC <a href='https://www.informazione-aziende.it/Azienda_KARISMA-DES-KARAKIYA-HANIFI-TURGAY'>İş Yöneticisi (lojistik)</a>",
+    "responsibility_bis": "Sorumluluklar : ",
+    "responsibility_karisma_one": "<i class='fa fa-circle'></i> Muhasebecilerle toplantılar",
+    "responsibility_karisma_two": "<i class='fa fa-circle'></i> Faturaların yönetimi",
+    "responsibility_karisma_three": "<i class='fa fa-circle'></i> Kamyon sürme",
+    "responsibility_karisma_four": "<i class='fa fa-circle'></i> Daha fazlası",
+    
+    
+    "download": "Belgelerimi İndir",
+    "d_cv": "CV'mi İndir <i class='fa fa-download'></i>",
+    "d_ML": "Motivasyon Mektubumu İndir <i class='fa fa-download'></i>",
+    "d_certificates": "Sertifikalarımı İndir <i class='fa fa-download'></i>"
+}
+
+    

@@ -1,0 +1,72 @@
+{
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experiences": "Experiences",
+    "my_documents": "My Documents",
+
+
+    "greeting": "Hello I'm",
+    "name": "Oktay Karakiya",
+    "position": "Software Developer & Student",
+    "phone": "+39 349 504 3663 / +39 327 846 5330",
+    "location": "39049 Sterzing, Southtyrol, Italy",
+
+
+    "abut_me_title": "About Me",
+    "about_me_text": "Hello, I am a young and enthusiastic programmer with a deep passion for software development. I possess a wide range of programming skills, including expertise in CSS, JavaScript, PHP, Python, Node.js, C and C++, Haskell, C#, and .NET. Additionally, I am fluent in English, German, Italian, and Turkish, which allows me to communicate effectively with people from different parts of the world. My motivation for pursuing a career in software development is to become financially independent and potentially move to another country. I am a calm and quick learner who always gives their best effort, and I take pride in my precise and tidy work. I have a deep critical reasoning mind and strong communication skills, which enable me to think deeply about problems and come up with creative solutions while effectively collaborating with my colleagues and clients. While my long-term career plans are not yet clear, I am excited to explore new possibilities and seize opportunities that align with my interests and aspirations. In my free time, I enjoy experimenting with new technologies and expanding my skillset. I am confident that my passion, skills, and dedication will enable me to succeed in any software development role I pursue.",
+
+
+    "what_i_do": "What I Do",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "servers": "Servers",
+    "frontend_text": "I developed various little projects in the past. I am always ready to develop myself, and I quickly learn and acquire new tecnologies. I am a quick and tidy learner",
+    "backend_text": "I have experience with the creation of API's. You can find an API I developed that allows business owners to manage their membership plans and communicate via the interface as well as alerts and many more features",
+    "servers_text": "I have always maintained my projects on my own servers without c-Panel, hence I gathered a lot of knowledge about server maintanence and the handling of services like nginx",
+    
+    "spoken_languages": "Spoken Languages",
+    "english": "English",
+    "german": "German",
+    "italian": "Italian",
+    "turkish": "Turkish",
+    "russian": "Russian",
+    "spanish": "Spanish",
+
+
+    "professional_skills": "Professional Skills",
+    "communication": "Communication",
+    "teamwork": "Team Work",
+    "project_management": "Project Management",
+    "creativity": "Creativity",
+
+
+    "education": "Education",
+    "highschool_graduation_title": "Economy and IT",
+    "highschool_graduation_text": "The economy is very complex, I am grateful to be able to add this with the knowledge of knowing how it works to it's details, from the micro-economy to the macro-economy",
+    "universiti_department": "Computer Science <a href='https://www.uibk.ac.at/en/'>University of Innsbruck</a>",
+    "uni_time": "2022 - current",
+    "university_text": "Computer Science has always be my dream, it is the place where I feel accepted and comfortable, it's a place for nerds like myself",
+    "certificates_link": "Certificates <a href='https://1drv.ms/u/s!AgL7Hatmik7Ht1ZrA3dDOQB0VI5n?e=4BHHRX'>Click here</a>",
+    "always_up_to_date": "Always Up To Date",
+    "always_up_to_date_things": "In this folder all my certificates can be found",
+
+
+    "work_experience": "Work Experiences",
+    "My_resp_coach_and_assistant": "Coach & Coach Assistant",
+    "responsibility": "Responsabilities : ",
+    "responsibility_one": "<i class='fa fa-circle'></i> Giving classes to individuals or groups",
+    "responsibility_two": "<i class='fa fa-circle'></i> Helping my coach with his classes",
+    "company_and_role": "Karisma LLC <a href='https://www.informazione-aziende.it/Azienda_KARISMA-DES-KARAKIYA-HANIFI-TURGAY'>Business Manager (logistics)</a>",
+    "responsibility_bis": "Responsabilities : ",
+    "responsibility_karisma_one": "<i class='fa fa-circle'></i> Meetings with accountants",
+    "responsibility_karisma_two": "<i class='fa fa-circle'></i> Handling of invoices",
+    "responsibility_karisma_three": "<i class='fa fa-circle'></i> Truck driving",
+    "responsibility_karisma_four": "<i class='fa fa-circle'></i> Much much more",
+
+
+    "download": "Download My Documents",
+    "d_cv": "Download My CV <i class='fa fa-download'></i>",
+    "d_ML": "Download My Motivational Letter <i class='fa fa-download'></i>",
+    "d_certificates": "Download My Certificates <i class='fa fa-download'></i>"
+}
