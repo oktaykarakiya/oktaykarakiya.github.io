@@ -2078,6 +2078,7 @@ body.mobile .animated {
 	-o-transform:rotate(45deg); 
 }
 
+
 .line-separate:before {
 	content: '';
 	display: block;
